@@ -1,14 +1,10 @@
-# SBS1-TDD-Python
-
-Estudando TDD com Python
-<br />
+# Estudando TDD com Python
 <br />
 
 ## **Criando o Ambiente**
 <br />
-<br />
 
-### Instalar o [ASDF](https://asdf-vm.com/guide/getting-started.html#_1-install-dependencies).
+### Instalar o [ASDF](https://asdf-vm.com/guide/getting-started.html#_1-install-dependencies)
 
 1- Depois de Instalado o ASDF. Adicionar um plugin local do Python na versão 3.10.2
 
